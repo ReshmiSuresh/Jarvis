@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jarvis</string>
+    <string name="speech_not_supported">Speech not Supported</string>
+    <string name="speech_prompt">Say yes to answer, or no to reject.</string>
+</resources>
